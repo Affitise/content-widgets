@@ -1,0 +1,448 @@
+/*!
+* Affitise Content Widgets
+*   github.com/affitise/content-widgets
+*
+*//*
+    by Affitise
+        affitise.com
+
+    license
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    **
+        
+*/
+
+.affitise-css .affitise-css-loading-wide-skyscrapper {
+    position: relative !important;
+    width: 160px !important;
+    height: 600px !important;
+    padding: 2px !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/loading/160x600-nl.png") !important;
+    background-repeat: no-repeat !important;
+}
+
+.affitise-css-loading-wide-skyscrapper .affitise-css-logo {
+    position: absolute !important;
+    top: 295px !important;
+    left: 55px !important;
+}
+
+.affitise-css .affitise-css-wide-skyscrapper {
+    position: relative !important;
+    width: 160px !important;
+    height: 600px !important;
+    padding: 2px !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/160x600-2.png") !important;
+    background-repeat: no-repeat !important;
+    font-family: Helvetica,Arial,sans-serif !important;
+}
+
+.affitise-css .affitise-css-bg-wide-skyscrapper {
+    position: relative !important;
+    width: 156px !important;
+    height: 175px !important;
+    padding: 0px !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/bg/general/160x600.png") !important;
+    background-repeat: no-repeat !important;
+}
+
+.affitise-css .affitise-css-wide-skyscrapper .affitise-css-image {
+    top: 140px !important;
+    text-align: center !important;
+    position: absolute !important;
+    width: 160px !important;
+}
+
+.affitise-css .affitise-css-wide-skyscrapper .affitise-css-name {
+    position:absolute !important;
+    top: 250px !important;
+    font-size: 15px !important;
+    color: #383f4d !important;
+    text-align: center !important;
+    margin-left: auto !important;
+    marigin-right: auto !important;
+    padding-right: 5px !important;
+    width: 150px !important;
+}
+
+.affitise-css .affitise-css-wide-skyscrapper .affitise-css-descr {
+    font-size: 13px !important;
+    color: #8d959b !important;
+    text-align: center !important;
+    position: absolute !important;
+    width: 146px !important;
+    top: 300px !important;
+    padding: 6px !important;
+}
+
+.affitise-css .affitise-css-wide-skyscrapper .affitise-css-left-button {
+    top: 550px !important;
+    position: absolute !important;
+    cursor: pointer !important;
+    width: 28px !important;
+    height: 30px !important;
+    left: 1px !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/leftbutton.png") !important;
+}
+
+.affitise-css .affitise-css-wide-skyscrapper .affitise-css-right-button {
+    top: 550px !important;
+    right: 2px !important;
+    position: absolute !important;
+    cursor: pointer !important;
+    width: 28px !important;
+    height: 30px !important;
+    right: 5px !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/rightbutton.png") !important;
+}
+
+.affitise-css .affitise-css-wide-skyscrapper .affitise-css-deal-button {
+    top: 450px !important;
+    position: absolute !important;
+    text-align: center !important;
+    width: 160px !important;
+    margin-left: auto !important;
+    marigin-right: auto !important;
+}
+
+.affitise-css .affitise-css-wide-skyscrapper .affitise-css-ends {
+    position:absolute !important;
+    bottom:80px !important;
+    color: #383f4d !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+    text-align: center !important;
+    padding-right: 5px !important;
+    width: 150px !important;
+    margin-left: auto !important;
+    marigin-right: auto !important;
+}
+
+.affitise-css .affitise-css-wide-skyscrapper .affitise-css-terms {
+    position:absolute !important;
+    bottom:60px !important;
+    color: #383f4d !important;
+    font-size: 11px !important;
+    font-weight: bold !important;
+    text-align: center !important;
+    padding-right: 5px !important;
+    width: 150px !important;
+    margin-left: auto !important;
+    marigin-right: auto !important;
+}
+
+.affitise-css .affitise-css-wide-skyscrapper .affitise-css-logo {
+    position:absolute !important;
+    bottom:20px !important;
+    color: #383f4d !important;
+    font-size: 14px !important;
+    font-weight: bold !important;
+    text-align: center !important;
+    padding-right: 5px !important;
+    width: 150px !important;
+    margin-left: auto !important;
+    marigin-right: auto !important;
+}
+
+.affitise-css .affitise-css-wide-skyscrapper .affitise-css-full-terms-close {
+    top: 5px !important;
+    right: 5px !important;
+    position: absolute !important;
+    cursor: pointer !important;
+}
+
+.affitise-css .affitise-css-wide-skyscrapper .affitise-css-full-terms-text {
+    top: 50px !important;
+    position: absolute !important;
+    text-align: center !important;
+    padding-right: 5px !important;
+    width: 150px !important;
+    margin-left: auto !important;
+    marigin-right: auto !important;
+}
+
+.affitise-css .affitise-css-loading-leaderboard {
+    position: relative !important;
+    width: 728px !important;
+    height: 90px !important;
+    padding: 2px !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/loading/728x90-nl.png") !important;
+    background-repeat: no-repeat !important;
+}
+
+.affitise-css-loading-leaderboard .affitise-css-logo {
+    position: absolute !important;
+    top: 50px !important;
+    left: 195px !important;
+}
+
+.affitise-css .affitise-css-leaderboard {
+    position: relative !important;
+    width: 728px !important;
+    height: 90px !important;
+    padding: 2px !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/728x90-2.png") !important;
+    background-repeat: no-repeat !important;
+    font-family: Helvetica,Arial,sans-serif !important;
+}
+
+.affitise-css .affitise-css-bg-leaderboard {
+    position: relative !important;
+    width: 165px !important;
+    height: 86px !important;
+    padding: 0px !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/bg/general/728x90.png") !important;
+    background-repeat: no-repeat !important;
+}
+
+.affitise-css .affitise-css-leaderboard .affitise-css-image {
+    top: 4px !important;
+    bottom: 4px !important;
+    left: 125px !important;
+    position: absolute !important;
+}
+
+.affitise-css .affitise-css-leaderboard .affitise-css-name {
+    position:absolute !important;
+    top: 16px !important;
+    left: 210px !important;
+    font-size: 15px !important;
+    color: #383f4d !important;
+    text-align: left !important;
+    width: 300px !important;
+    margin-left: auto !important;
+    marigin-right: auto !important;
+}
+
+.affitise-css .affitise-css-leaderboard .affitise-css-descr {
+    font-size: 13px !important;
+    color: #8d959b !important;
+    text-align: left !important;
+    position: absolute !important;
+    width: 300px !important;
+    left: 210px !important;
+    top: 47px !important;
+}
+
+.affitise-css .affitise-css-leaderboard .affitise-css-logo {
+    position:absolute !important;
+    bottom: 7px !important;
+    right: 10px !important;
+}
+
+.affitise-css .affitise-css-leaderboard .affitise-css-ends-terms {
+    position:absolute !important;
+    bottom: 7px !important;
+    right: 65px !important;
+    color: #383f4d !important;
+    font-size: 12px !important;
+    margin-right: auto !important;
+    margin-left: auto !important;
+    text-align: center !important;
+    width: 150px !important;
+}
+
+.affitise-css .affitise-css-leaderboard .affitise-css-full-terms-close {
+    top: 5px !important;
+    left: 5px !important;
+    position: absolute !important;
+    cursor: pointer !important;
+}
+
+.affitise-css .affitise-css-leaderboard .affitise-css-full-terms-text {
+    left: 210px !important;
+    top: 45px !important;
+    position: absolute !important;
+}
+
+.affitise-css .affitise-css-leaderboard .affitise-css-left-button {
+    top: 30px !important;
+    position: absolute !important;
+    cursor: pointer !important;
+    width: 28px !important;
+    height: 30px !important;
+    left: 1px !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/leftbutton.png") !important;
+}
+
+.affitise-css .affitise-css-leaderboard .affitise-css-right-button {
+    top: 30px !important;
+    right: 2px !important;
+    position: absolute !important;
+    cursor: pointer !important;
+    width: 28px !important;
+    height: 30px !important;
+    right: 5px !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/rightbutton.png") !important;
+}
+
+.affitise-css .affitise-css-leaderboard .affitise-css-deal-button {
+    left: 545px !important;
+    position: absolute !important;
+    top: 30px !important;
+}
+
+.affitise-css .affitise-css-loading-medium-rectangle {
+    position: relative !important;
+    width: 300px !important;
+    height: 250px !important;
+    padding: 2px !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/loading/300x250-nl.png") !important;
+    background-repeat: no-repeat !important;
+}
+
+.affitise-css-loading-medium-rectangle .affitise-css-logo {
+    position: absolute !important;
+    top: 125px !important;
+    left: 120px !important;
+}
+
+.affitise-css .affitise-css-medium-rectangle {
+    position: relative !important;
+    width: 300px !important;
+    height: 250px !important;
+    padding: 2px !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/300x250-2.png") !important;
+    font-family: Helvetica,Arial,sans-serif !important;
+    background-repeat: no-repeat !important;
+}
+
+.affitise-css .affitise-css-bg-medium-rectangle {
+    position: relative !important;
+    width: 296px !important;
+    height: 61px !important;
+    padding: 0px !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/bg/general/300x250.png") !important;
+    background-repeat: no-repeat !important;
+}
+
+.affitise-css .affitise-css-medium-rectangle .affitise-css-logo {
+    position:absolute !important;
+    bottom:7px !important;
+    right: 10px !important;
+    color: #383f4d !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+}
+
+.affitise-css .affitise-css-medium-rectangle .affitise-css-ends-terms {
+    position:absolute !important;
+    bottom: 7px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+    width: 300px !important;
+    color: #383f4d !important;
+    font-size: 12px !important;
+}
+
+.affitise-css .affitise-css-medium-rectangle .affitise-css-image-wrapper {
+    width: 300px !important;
+    text-align: center !important;
+    position: absolute !important;
+    margin-top:-40px !important;
+}
+
+.affitise-css .affitise-css-medium-rectangle .affitise-css-image-wrapper .affitise-css-image {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.affitise-css .affitise-css-medium-rectangle .affitise-css-full-terms-close {
+    top: 5px !important;
+    right: 5px !important;
+    position: absolute !important;
+    cursor: pointer !important;
+}
+
+.affitise-css .affitise-css-medium-rectangle .affitise-css-full-terms-text {
+    padding: 20px !important;
+}
+
+.affitise-css .affitise-css-medium-rectangle .affitise-css-name {
+    position:absolute !important;
+    margin-top: 50px !important;
+    font-size: 15px !important;
+    color: #383f4d !important;
+    text-align: center !important;
+    width: 296px !important;
+    margin-left: auto !important;
+    marigin-right: auto !important;
+}
+
+.affitise-css .affitise-css-medium-rectangle .affitise-css-descr {
+    font-size: 13px !important;
+    color: #8d959b !important;
+    padding: 10px !important;
+    text-align: center !important;
+    position: absolute !important;
+    width: 280px !important;
+    margin-top: 70px !important;
+}
+
+.affitise-css .affitise-css-medium-rectangle .affitise-css-descr .affitise-css-descr-wrap {
+    position: relative !important;
+    text-align: center !important;
+}
+
+.affitise-css .affitise-css-medium-rectangle .affitise-css-deal-button {
+    margin-left: 90px !important;
+    position: absolute !important;
+    bottom: 35px !important;
+}
+
+.affitise-css .affitise-css-medium-rectangle .affitise-css-left-button {
+    margin-top: 40px !important;
+    position: absolute !important;
+    cursor: pointer !important;
+    width: 28px !important;
+    height: 30px !important;
+    left: 1px !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/leftbutton.png") !important;
+}
+
+.affitise-css .affitise-css-medium-rectangle .affitise-css-right-button {
+    margin-top: 40px !important;
+    position: absolute !important;
+    cursor: pointer !important;
+    width: 28px !important;
+    height: 30px !important;
+    right: 5px !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/rightbutton.png") !important;
+}
+
+.affitise-css  .affitise-css-name {
+    padding-left: 5px !important;
+}
+
+.affitise-css .affitise-css-image {
+    width: 76px !important;
+    height: 76px !important;
+}
+
+.affitise-css .affitise-css-image img {
+    max-width: 76px !important;
+    max-height: 76px !important;
+    background-color: #FFFFFF !important;
+    padding: 3px !important;
+}
+
+.affitise-css .affitise-css-logo a {
+    color: #383f4d !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+    text-decoration: none !important;
+}
+
+.affitise-css .affitise-css-terms a {
+    cursor: pointer !important;
+}
+
+.affitise-css .affitise-css-ends-terms a {
+    cursor: pointer !important;
+}
+
+.affitise-css .affitise-css-terms-close-button img {
+    cursor: pointer !important;
+}

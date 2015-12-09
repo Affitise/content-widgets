@@ -1,0 +1,29 @@
+{
+  "name": "content-widgets",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Affitise/content-widgets",
+  "authors": [
+    "Patrick McAndrew <patrick@peerj.com>"
+  ],
+  "description": "Affitise JS Widgets for Content",
+  "main": "affitise.js",
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "keywords": [
+    "Affitise"
+  ],
+  "license": "Apache 2.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cleanslate": "git://github.com/premasagar/cleanslate.git#~0.10.1"
+  }
+}
