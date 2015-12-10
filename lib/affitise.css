@@ -18,7 +18,7 @@
     width: 160px !important;
     height: 600px !important;
     padding: 2px !important;
-    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/loading/160x600-nl.png") !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v2/images/loading/160x600-nl.png") !important;
     background-repeat: no-repeat !important;
 }
 
@@ -33,7 +33,7 @@
     width: 160px !important;
     height: 600px !important;
     padding: 2px !important;
-    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/160x600-2.png") !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v2/images/160x600-2.png") !important;
     background-repeat: no-repeat !important;
     font-family: Helvetica,Arial,sans-serif !important;
 }
@@ -43,7 +43,7 @@
     width: 156px !important;
     height: 175px !important;
     padding: 0px !important;
-    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/bg/general/160x600.png") !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v2/images/bg/general/160x600.png") !important;
     background-repeat: no-repeat !important;
 }
 
@@ -83,7 +83,7 @@
     width: 28px !important;
     height: 30px !important;
     left: 1px !important;
-    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/leftbutton.png") !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v2/images/leftbutton.png") !important;
 }
 
 .affitise-css .affitise-css-wide-skyscrapper .affitise-css-right-button {
@@ -94,7 +94,7 @@
     width: 28px !important;
     height: 30px !important;
     right: 5px !important;
-    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/rightbutton.png") !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v2/images/rightbutton.png") !important;
 }
 
 .affitise-css .affitise-css-wide-skyscrapper .affitise-css-deal-button {
@@ -167,7 +167,7 @@
     width: 728px !important;
     height: 90px !important;
     padding: 2px !important;
-    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/loading/728x90-nl.png") !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v2/images/loading/728x90-nl.png") !important;
     background-repeat: no-repeat !important;
 }
 
@@ -182,7 +182,7 @@
     width: 728px !important;
     height: 90px !important;
     padding: 2px !important;
-    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/728x90-2.png") !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v2/images/728x90-2.png") !important;
     background-repeat: no-repeat !important;
     font-family: Helvetica,Arial,sans-serif !important;
 }
@@ -192,7 +192,7 @@
     width: 165px !important;
     height: 86px !important;
     padding: 0px !important;
-    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/bg/general/728x90.png") !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v2/images/bg/general/728x90.png") !important;
     background-repeat: no-repeat !important;
 }
 
@@ -263,7 +263,7 @@
     width: 28px !important;
     height: 30px !important;
     left: 1px !important;
-    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/leftbutton.png") !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v2/images/leftbutton.png") !important;
 }
 
 .affitise-css .affitise-css-leaderboard .affitise-css-right-button {
@@ -274,7 +274,7 @@
     width: 28px !important;
     height: 30px !important;
     right: 5px !important;
-    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/rightbutton.png") !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v2/images/rightbutton.png") !important;
 }
 
 .affitise-css .affitise-css-leaderboard .affitise-css-deal-button {
@@ -288,7 +288,7 @@
     width: 300px !important;
     height: 250px !important;
     padding: 2px !important;
-    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/loading/300x250-nl.png") !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v2/images/loading/300x250-nl.png") !important;
     background-repeat: no-repeat !important;
 }
 
@@ -303,7 +303,7 @@
     width: 300px !important;
     height: 250px !important;
     padding: 2px !important;
-    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/300x250-2.png") !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v2/images/300x250-2.png") !important;
     font-family: Helvetica,Arial,sans-serif !important;
     background-repeat: no-repeat !important;
 }
@@ -313,7 +313,7 @@
     width: 296px !important;
     height: 61px !important;
     padding: 0px !important;
-    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/bg/general/300x250.png") !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v2/images/bg/general/300x250.png") !important;
     background-repeat: no-repeat !important;
 }
 
@@ -399,7 +399,7 @@
     width: 28px !important;
     height: 30px !important;
     left: 1px !important;
-    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/leftbutton.png") !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v2/images/leftbutton.png") !important;
 }
 
 .affitise-css .affitise-css-medium-rectangle .affitise-css-right-button {
@@ -409,7 +409,7 @@
     width: 28px !important;
     height: 30px !important;
     right: 5px !important;
-    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v1/rightbutton.png") !important;
+    background-image: url("https://d3t7o5057mxckn.cloudfront.net/client/v2/images/rightbutton.png") !important;
 }
 
 .affitise-css  .affitise-css-name {
